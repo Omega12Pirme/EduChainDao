@@ -2,7 +2,7 @@
 
 
 
-# EduDao
+# EduChainDao
 
 
 For years I have wanted to participate in fund initiatives to invest in projects (startups and others), but the bureaucracy, the high requirements, and many other problems make it very difficult. And it is something that not only I experience, but also many other people who have a little money and want to support projects in the medium/long term.
@@ -14,8 +14,8 @@ Therefore, through DAO (decentralized organizations) we can create structures so
 <br>
 
 
-# Live Frontend:  https://edu-dao.vercel.app/
-# Demo Video:  https://youtu.be/Hjhu4KV9zcI
+# Live Frontend: https://edu-chain-dao.vercel.app/
+# Demo Video:  https://youtu.be/EqhJoM4pJV4?si=PLnduA00llTHiOya
 
 </div>
 <a href="#top">Back to top</a>
@@ -24,12 +24,14 @@ Therefore, through DAO (decentralized organizations) we can create structures so
 
 
 ## Smart Contract deployed on EDU Testnet  
-- Smart contract - 0x55e543D2b92eb2a40097f2A706437FC1102Ed85C
+- Smart contract - 0x746144a879975d021069ED9F326A343C2818BA8e
 
   
-- https://opencampus-codex.blockscout.com/address/0x55e543D2b92eb2a40097f2A706437FC1102Ed85C
-  
-![Screenshot from 2024-08-27 21-24-48](https://github.com/user-attachments/assets/3a378b37-ddf7-4493-a07e-2ebdb848efad)
+- https://edu-chain-testnet.blockscout.com/address/0x746144a879975d021069ED9F326A343C2818BA8e
+
+
+<img width="1110" alt="Screenshot 2025-04-09 221625" src="https://github.com/user-attachments/assets/73b43283-9350-4407-8b69-5a8afe14c8e0" />
+
 
 
 ## 💡Introduction
@@ -51,7 +53,7 @@ EDU DAO allows you to manage investment clubs, and to spread access to participa
 - Contribute to the club: Any member of a club can contribute to the common fund (pool), depositing CFX coins that can be used in proposals.
 
 
-https://opencampus-codex.blockscout.com/tx/0x1e3f3acc86da39e38b153f9b731ec80e3f28f1c93358dca69db2c7a40e6d7d86
+https://edu-chain-testnet.blockscout.com/tx/0x1b491b4c612bd05fda3b0a9e7c043442bcad98c5ec8b0ca9a394c49f48972af6
 
 - Create and Vote on Proposals: Any member who has contributed funds to the club pool can create proposals, giving a description, amount (not to exceed the pool amount), and recipient, with a view     to investing in any business/person in a project. Also, all members can approve or reject the proposal (only one vote per member is allowed on each proposal).
 
